@@ -3,3 +3,4 @@ public class Sum {
         return number1 + number2;
     }
 }
+// class used to calculate sum of two numbers provided by user input in main
