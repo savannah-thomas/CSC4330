@@ -36,3 +36,5 @@ public class Main {
         }
     }
 }
+
+// main pulls calculate sum and average classes to manipulate user input
